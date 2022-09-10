@@ -3,7 +3,7 @@
 version: V5.9c.2280_B20180512
 # Description
 There is a command injection in downloadFile.cgi. 
-This bug still exist in V5.9c.2280_B20180512.
+This bug still exist in  [V5.9c.2280_B20180512](https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/169/ids/36.html).
 # Analyse
 After obtaining the URL parameter, it is directly incorporated into the system function for execution without checking and filtering
 
