@@ -1,4 +1,4 @@
-# Command Injection
+# Edimax wireless_routers_n300 Command Injection
 ## BR-6428nS V3 Firmware
 Firmware Version: BR6428NSv3_1.20
 You can download Firmware at this [website](https://www.edimax.com/edimax/download/download/data/edimax/global/download/wireless_routers_n300/br-6428ns_v3) and use FirmAE to simulate the router environment.
